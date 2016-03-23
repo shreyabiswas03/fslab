@@ -67,7 +67,7 @@ class Studentrecord{
         rrn.push_back(pos-len);
         rsize++;
         cout<<"rsize:"<<rsize<<endl;
-        cout<<"content rrn:"<<rrn[rsize-1];
+        //cout<<"content rrn:"<<rrn[rsize-1];
         return pos;
 	}
         void search(int recno)
